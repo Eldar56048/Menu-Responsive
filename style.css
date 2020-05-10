@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h1.menu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+div.all{
+    width: 100%;
+    height: auto;
+}
+div.box{
+    width: 32%;
+    float: left;
+    background-color: #999999;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+div.box3{
+    width: 32%;
+    float: left;
+    background-color: #999999;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+div.box4{
+    width: 32%;
+    float: left;
+    background-color: #999999;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+div.box2{
+    width: 32%;
+    float: left;
+    background-color: #999999;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+div.header{
+    width: 100%;
+    background-color: #999999;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+div.header2{
+    width: 100%;
+    background-color: #999999;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+
+div.name{
+    width: 40%;
+    background-color: #D59898;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+div.name1{
+    width: 40%;
+    background-color: #C14543;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+div.name2{
+    
+    width: 40%;
+    background-color: #E5D198;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+div.article{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
